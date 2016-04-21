@@ -1,5 +1,5 @@
 # WifiSprinkler
-NodeMCU ESP-12E based sprinkler system
+NodeMCU ESP-12E based sprinkler system using the Arduino IDE for programing.
 
 
 # Objectives
